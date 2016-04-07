@@ -1,0 +1,2 @@
+dependencies: \
+  /Users/bachelor3/Desktop/daniel/iesa2016-a3-mobile/exos\ 01/hello/platforms/ios/HelloWorld/main.m
